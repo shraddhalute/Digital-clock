@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(17, 16, 16, 0.712);
+    padding: 60px;
+}
+#watch{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 100px;
+    height: 40px;
+    
+    background-color: black;
+    color: white;
+}
+#date{
+    color: white;
+    display: flex;
+    flex-direction: row;
+
+}
